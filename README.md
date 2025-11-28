@@ -4,6 +4,6 @@
 4. pip install -r requirements.txt
 5. Create .env file
 ```
-BOT_TOKEN=<toke here>
+BOT_TOKEN=<token here>
 ```
 7. python bot.py
